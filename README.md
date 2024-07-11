@@ -1,6 +1,6 @@
 # how-to-git
 
-A repo with some branches and some pull requests designed to show how to:
+A repotypo with some branches and some pull requests designed to show how to:
 
 * Make good commits
     * Not too much sausage (squash commits)
